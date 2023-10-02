@@ -22,5 +22,5 @@ This repository is participating in Hacktoberfest. Feel free to contribute to ea
 
 ## Contact
 
-If you have any questions or need further assistance, please contact Chayanika Arora at arorachayanika1@gmail.com
+If you have any questions or need further assistance, please contact Chayanika Arora at 2019509683.chayanika@ug.sharda.ac.in
 
