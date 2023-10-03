@@ -1,0 +1,11 @@
+public class PrintCharsOfString {
+    public static void main(String[] args) {
+        String name = "chayanika";
+
+        // Using a for loop to print each character
+        for (int i = 0; i < name.length(); i++) {
+            char character = name.charAt(i);
+            System.out.println(character);
+        }
+    }
+}
